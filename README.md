@@ -1,6 +1,6 @@
 #TagCloud
 
-![mahua](http://github.com/yumemor/TagCloud/raw/master/top_logo.gif)
+![image](http://github.com/yumemor/TagCloud/raw/master/top_logo.gif)
 
 * 基于官网文件修改swf文件，方便配置各种`透明`标签云。
 
